@@ -2,7 +2,7 @@
 
 #Ask the user their Name
 read -p "What's Your name? : " Names
-Parentdir= "submission_reminder_${Names}"
+Parentdir="submission_reminder_${Names}"
 
 mkdir -p "$Parentdir"
 
