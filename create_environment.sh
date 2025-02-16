@@ -81,4 +81,5 @@ cat << 'The_end' > "$Parentdir/startup.sh"
 bash app/reminder.sh
 
 The_end
+
 chmod +x "$Parentdir/startup.sh"
