@@ -63,16 +63,16 @@ The_end
 cat << 'The_end' > "$Parentdir/assets/submissions.txt"
 
 student, assignment, submission status
-Chinemerem, Shell Navigation, not submitted
+Chinemerem, shell Navigation, not submitted
 Chiagoziem, Git, submitted
-Divine, Shell Navigation, not submitted
-Anissa, Shell Basics, submitted
-Des,Shell Navigation , submitted
-Mugenga, Shell Navigation , submitted
-Obed, Shell Navigation , submitted
-Murekezi, Shell Navigation ,Not submitted
-Karake,Shell Navigation , Not submitted
-Muhire,Shell Navigation , Submitted 
+Divine, shell Navigation, not submitted
+Anissa, shell Basics, submitted
+Des,shell Navigation , submitted
+Mugenga, shell Navigation , submitted
+Obed, shell Navigation , submitted
+Murekezi, shell Navigation ,not submitted
+Karake,shell Navigation , not submitted
+Muhire,shell Navigation , Submitted 
 
 The_end
 
