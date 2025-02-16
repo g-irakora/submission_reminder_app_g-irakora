@@ -4,7 +4,7 @@
 read -p "What's Your name? : " Names
 Parentdir= "submission_reminder_${Names}"
 
-mkdir -p $Parentdir
+mkdir -p "$Parentdir"
 
 mkdir -p "$Parentdir/app" "$Parentdir/modules" "$Parentdir/assets" "$Parentdir/config" 
 
